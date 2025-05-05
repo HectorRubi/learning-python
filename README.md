@@ -64,7 +64,9 @@ learning-python/
 │   ├── test_basics.py
 │   ├── test_intermediate.py
 │   └── ...
-└── [README.md](http://_vscodecontentref_/0)
+├── .gitignore
+├── LICENSE
+└── README.md
 ```
 
 ## Topics Covered
