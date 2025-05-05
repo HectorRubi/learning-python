@@ -56,10 +56,6 @@ learning-python/
 │   ├── decorators.py
 │   ├── generators.py
 │   └── ...
-├── projects/
-│   ├── calculator/
-│   ├── web_scraper/
-│   └── ...
 ├── tests/
 │   ├── test_basics.py
 │   ├── test_intermediate.py
