@@ -76,24 +76,6 @@ my_list = [10, 15, 25, 5, 30, 35]
 print(max(my_list))  # Output: 35
 print(min(my_list))  # Output: 5
 
-# List comprehension
-
-# List comprehension is a concise way to create lists.
-# It consists of an expression followed by a for clause and zero or more for or if clauses.
-squares = [x**2 for x in range(10)]
-print(squares)  # Output: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
-
-# List comprehension with a condition
-evens = [x for x in range(10) if x % 2 == 0]
-print(evens)  # Output: [0, 2, 4, 6, 8]
-
-# Nested lists
-# Lists can contain other lists, creating a nested structure.
-nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-print(nested_list)  # Output: [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-print(nested_list[0])  # Output: [1, 2, 3]
-print(nested_list[1][2])  # Output: 6 (item at index 2 of the second list)
-print(nested_list[2][0:2])  # Output: [7, 8] (items from index 0 to 1 of the third list)
 
 # List methods
 # Lists have several built-in methods for common operations.
