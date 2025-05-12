@@ -45,6 +45,11 @@ This project is designed to help individuals learn Python programming from scrat
 learning-python/
 ├── basics/
 │   ├── variables_and_data_types.py
+│   ├── print_function.py
+│   ├── math_operators.py
+│   ├── boolean_operators.py
+│   ├── lists.py
+│   ├── dicts.py
 │   ├── control_flow.py
 │   ├── functions.py
 │   └── ...
