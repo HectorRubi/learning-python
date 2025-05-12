@@ -1,0 +1,13 @@
+import pandas as pd
+
+data_frame = pd.DataFrame({
+  "Name": [
+    "Braund, Mr. Owen Harris",
+    "Allen, Mr. William Henry",
+    "Bonnell, Miss. Elizabeth",
+  ],
+  "Age": [22, 35, 58],
+  "Sex": ["male", "male", "female"],
+})
+
+print(data_frame)
